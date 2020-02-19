@@ -1,0 +1,12 @@
+1. U14 L24 board=y time=y
+2. U14 L24 board=y time=n
+3. U14 L24 board=n time=n
+4. U37 L5 board=y time=y
+5. U37 L5 board=y time=n
+6. U37 L5 board=n time=n
+7. U40 + board=y time=y
+8. U40 + board=n time=n
+9. U17 L36 board=y time=y
+10. L1 A4 board=n time=y
+11. L36 $ board=n time=y
+12. ! = board=n time=n
