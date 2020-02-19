@@ -1,0 +1,629 @@
+1. U14 L24 board=y time=y
+
+FROM: (U14) Rabb Graduate Center
+ON: 
+Travel 149 feet in direction 333 degrees NW
+TO: (0) Mandel Quad
+(16 seconds)
+
+FROM: (0) Mandel Quad
+ON: 
+Travel 394 feet in direction 288 degrees West
+TO: ($) Tower Lot
+(43 seconds)
+
+FROM: ($) Tower Lot
+ON: 
+Travel 961 feet in direction 249 degrees West
+TO: (P) Loop Road At The Chapels
+(42 seconds)
+
+FROM: (P) Loop Road At The Chapels
+ON: Loop Road
+Travel 634 feet in direction 233 degrees SW
+TO: (M) Loop Road By The Hassenfeld Lot
+(28 seconds)
+
+FROM: (M) Loop Road By The Hassenfeld Lot
+ON: Loop Road
+Travel 508 feet in direction 200 degrees South
+TO: (I) Loop Road At The Theater
+(22 seconds)
+
+FROM: (I) Loop Road At The Theater
+ON: Loop Road
+Travel 229 feet in direction 118 degrees SE
+TO: (J) Loop Road At The Admissions Building
+(10 seconds)
+
+FROM: (J) Loop Road At The Admissions Building
+ON: 
+Travel 140 feet in direction 224 degrees SW
+TO: (L24) Shapiro Admissions Center
+(15 seconds)
+
+legs = 7, distance = 3015 feet, time = 176 seconds
+2. U14 L24 board=y time=n
+
+FROM: (U14) Rabb Graduate Center
+ON: Rabb Steps
+Travel 165 feet in direction 220 degrees SW
+TO: (2) Loop Road By Rabb Steps
+(40 seconds)
+
+FROM: (2) Loop Road By Rabb Steps
+ON: Central Campus Walkway
+Travel 290 feet in direction 222 degrees SW
+TO: (U) Between Social Sciences And Library
+(64 seconds)
+
+FROM: (U) Between Social Sciences And Library
+ON: Central Campus Walkway
+Travel 278 feet in direction 262 degrees West
+TO: (T) Between Sciences and Library
+(61 seconds)
+
+FROM: (T) Between Sciences and Library
+ON: Central Campus Walkway
+Travel 555 feet in direction 248 degrees West
+TO: (Q) Rosenthal Quad
+(24 seconds)
+
+FROM: (Q) Rosenthal Quad
+ON: Central Campus Walkway Through Fellows Garden
+Travel 392 feet in direction 224 degrees SW
+TO: (N) Shapiro And Administration Main Entrances
+(43 seconds)
+
+FROM: (N) Shapiro And Administration Main Entrances
+ON: 
+Travel 510 feet in direction 252 degrees West
+TO: (J) Loop Road At The Admissions Building
+(56 seconds)
+
+FROM: (J) Loop Road At The Admissions Building
+ON: 
+Travel 140 feet in direction 224 degrees SW
+TO: (L24) Shapiro Admissions Center
+(15 seconds)
+
+legs = 7, distance = 2330 feet, time = 303 seconds
+3. U14 L24 board=n time=n
+
+FROM: (U14) Rabb Graduate Center
+ON: Rabb Steps
+Travel 165 feet in direction 220 degrees SW
+TO: (2) Loop Road By Rabb Steps
+(40 seconds)
+
+FROM: (2) Loop Road By Rabb Steps
+ON: Central Campus Walkway
+Travel 290 feet in direction 222 degrees SW
+TO: (U) Between Social Sciences And Library
+(64 seconds)
+
+FROM: (U) Between Social Sciences And Library
+ON: Central Campus Walkway
+Travel 278 feet in direction 262 degrees West
+TO: (T) Between Sciences and Library
+(61 seconds)
+
+FROM: (T) Between Sciences and Library
+ON: Central Campus Walkway
+Travel 555 feet in direction 248 degrees West
+TO: (Q) Rosenthal Quad
+(110 seconds)
+
+FROM: (Q) Rosenthal Quad
+ON: Central Campus Walkway Through Fellows Garden
+Travel 392 feet in direction 224 degrees SW
+TO: (N) Shapiro And Administration Main Entrances
+(86 seconds)
+
+FROM: (N) Shapiro And Administration Main Entrances
+ON: 
+Travel 510 feet in direction 252 degrees West
+TO: (J) Loop Road At The Admissions Building
+(113 seconds)
+
+FROM: (J) Loop Road At The Admissions Building
+ON: 
+Travel 140 feet in direction 224 degrees SW
+TO: (L24) Shapiro Admissions Center
+(31 seconds)
+
+legs = 7, distance = 2330 feet, time = 505 seconds
+4. U37 L5 board=y time=y
+
+FROM: (U37) Schwartz Hall
+ON: 
+Travel 112 feet in direction 279 degrees West
+TO: (U) Between Social Sciences And Library
+(12 seconds)
+
+FROM: (U) Between Social Sciences And Library
+ON: Central Campus Walkway
+Travel 290 feet in direction 42 degrees NE
+TO: (2) Loop Road By Rabb Steps
+(64 seconds)
+
+FROM: (2) Loop Road By Rabb Steps
+ON: Loop Road
+Travel 284 feet in direction 299 degrees NW
+TO: (1) Loop Road By Mandel Center
+(31 seconds)
+
+FROM: (1) Loop Road By Mandel Center
+ON: Loop Road
+Travel 994 feet in direction 264 degrees West
+TO: (P) Loop Road At The Chapels
+(43 seconds)
+
+FROM: (P) Loop Road At The Chapels
+ON: Loop Road
+Travel 634 feet in direction 233 degrees SW
+TO: (M) Loop Road By The Hassenfeld Lot
+(28 seconds)
+
+FROM: (M) Loop Road By The Hassenfeld Lot
+ON: Loop Road
+Travel 508 feet in direction 200 degrees South
+TO: (I) Loop Road At The Theater
+(22 seconds)
+
+FROM: (I) Loop Road At The Theater
+ON: Museum Circle
+Travel 413 feet in direction 278 degrees West
+TO: (L5) Pollack Fine Arts
+(45 seconds)
+
+legs = 7, distance = 3235 feet, time = 245 seconds
+5. U37 L5 board=y time=n
+
+FROM: (U37) Schwartz Hall
+ON: 
+Travel 112 feet in direction 279 degrees West
+TO: (U) Between Social Sciences And Library
+(12 seconds)
+
+FROM: (U) Between Social Sciences And Library
+ON: Central Campus Walkway
+Travel 278 feet in direction 262 degrees West
+TO: (T) Between Sciences and Library
+(61 seconds)
+
+FROM: (T) Between Sciences and Library
+ON: 
+Travel 571 feet in direction 264 degrees West
+TO: (L15) Rosenthal Residence Hall East
+(114 seconds)
+
+FROM: (L15) Rosenthal Residence Hall East
+ON: 
+Travel 215 feet in direction 241 degrees SW
+TO: (L16) Rosenthal Residence Hall South
+(23 seconds)
+
+FROM: (L16) Rosenthal Residence Hall South
+ON: 
+Travel 139 feet in direction 275 degrees West
+TO: (L13) Sherman Hall / Hassenfeld Conference Center
+(15 seconds)
+
+FROM: (L13) Sherman Hall / Hassenfeld Conference Center
+ON: 
+Travel 231 feet in direction 283 degrees West
+TO: (L9) Shapiro Residence Hal
+(25 seconds)
+
+FROM: (L9) Shapiro Residence Hal
+ON: 
+Travel 386 feet in direction 216 degrees SW
+TO: (L7) Faculty Center
+(42 seconds)
+
+FROM: (L7) Faculty Center
+ON: 
+Travel 544 feet in direction 262 degrees West
+TO: (L5) Pollack Fine Arts
+(60 seconds)
+
+legs = 8, distance = 2476 feet, time = 352 seconds
+6. U37 L5 board=n time=n
+
+FROM: (U37) Schwartz Hall
+ON: 
+Travel 112 feet in direction 279 degrees West
+TO: (U) Between Social Sciences And Library
+(25 seconds)
+
+FROM: (U) Between Social Sciences And Library
+ON: Central Campus Walkway
+Travel 278 feet in direction 262 degrees West
+TO: (T) Between Sciences and Library
+(61 seconds)
+
+FROM: (T) Between Sciences and Library
+ON: 
+Travel 571 feet in direction 264 degrees West
+TO: (L15) Rosenthal Residence Hall East
+(114 seconds)
+
+FROM: (L15) Rosenthal Residence Hall East
+ON: 
+Travel 215 feet in direction 241 degrees SW
+TO: (L16) Rosenthal Residence Hall South
+(47 seconds)
+
+FROM: (L16) Rosenthal Residence Hall South
+ON: 
+Travel 139 feet in direction 275 degrees West
+TO: (L13) Sherman Hall / Hassenfeld Conference Center
+(31 seconds)
+
+FROM: (L13) Sherman Hall / Hassenfeld Conference Center
+ON: 
+Travel 231 feet in direction 283 degrees West
+TO: (L9) Shapiro Residence Hal
+(51 seconds)
+
+FROM: (L9) Shapiro Residence Hal
+ON: 
+Travel 386 feet in direction 216 degrees SW
+TO: (L7) Faculty Center
+(85 seconds)
+
+FROM: (L7) Faculty Center
+ON: 
+Travel 544 feet in direction 262 degrees West
+TO: (L5) Pollack Fine Arts
+(120 seconds)
+
+legs = 8, distance = 2476 feet, time = 534 seconds
+7. U40 + board=y time=y
+
+FROM: (U40) Usen Castle
+ON: Usen Driveway
+Travel 126 feet in direction 273 degrees West
+TO: (7) Usen Main Entrance
+(28 seconds)
+
+FROM: (7) Usen Main Entrance
+ON: Usen Bypass
+Travel 161 feet in direction 37 degrees NE
+TO: (8) Intersection Of Loop Road And Usen Bypass
+(18 seconds)
+
+FROM: (8) Intersection Of Loop Road And Usen Bypass
+ON: Loop Road
+Travel 257 feet in direction 116 degrees SE
+TO: (9) Loop Road At The Top Of East Quad Steps
+(11 seconds)
+
+FROM: (9) Loop Road At The Top Of East Quad Steps
+ON: Loop Road
+Travel 293 feet in direction 179 degrees South
+TO: (W) Loop Road At The Health Center
+(13 seconds)
+
+FROM: (W) Loop Road At The Health Center
+ON: Health Center Steps
+Travel 213 feet in direction 157 degrees SE
+TO: (X) South St. At The Base Of Health Center Steps
+(52 seconds)
+
+FROM: (X) South St. At The Base Of Health Center Steps
+ON: 
+Travel 399 feet in direction 117 degrees SE
+TO: (?) Athletic Lower Lot
+(44 seconds)
+
+FROM: (?) Athletic Lower Lot
+ON: Athletics Driveway
+Travel 249 feet in direction 139 degrees SE
+TO: (+) Athletic Back Lot
+(27 seconds)
+
+legs = 7, distance = 1698 feet, time = 193 seconds
+8. U40 + board=n time=n
+
+FROM: (U40) Usen Castle
+ON: Usen Driveway
+Travel 126 feet in direction 273 degrees West
+TO: (7) Usen Main Entrance
+(28 seconds)
+
+FROM: (7) Usen Main Entrance
+ON: Usen Bypass
+Travel 130 feet in direction 157 degrees SE
+TO: (S) Top Of Usen Steps
+(29 seconds)
+
+FROM: (S) Top Of Usen Steps
+ON: Usen Steps
+Travel 184 feet in direction 148 degrees SE
+TO: (=) Science Lot
+(45 seconds)
+
+FROM: (=) Science Lot
+ON: 
+Travel 198 feet in direction 87 degrees East
+TO: (W) Loop Road At The Health Center
+(44 seconds)
+
+FROM: (W) Loop Road At The Health Center
+ON: Health Center Steps
+Travel 213 feet in direction 157 degrees SE
+TO: (X) South St. At The Base Of Health Center Steps
+(52 seconds)
+
+FROM: (X) South St. At The Base Of Health Center Steps
+ON: 
+Travel 399 feet in direction 117 degrees SE
+TO: (?) Athletic Lower Lot
+(88 seconds)
+
+FROM: (?) Athletic Lower Lot
+ON: Athletics Driveway
+Travel 249 feet in direction 139 degrees SE
+TO: (+) Athletic Back Lot
+(55 seconds)
+
+legs = 7, distance = 1499 feet, time = 341 seconds
+9. U17 L36 board=y time=y
+
+FROM: (U17) Reitman Residence Hall
+ON: Mandel Rear Access Road
+Travel 147 feet in direction 160 degrees South
+TO: (U18) Cable Residence Hall
+(6 seconds)
+
+FROM: (U18) Cable Residence Hall
+ON: Mandel Rear Access Road
+Travel 162 feet in direction 228 degrees SW
+TO: (5) Cable Residence Hall Street Entrance
+(18 seconds)
+
+FROM: (5) Cable Residence Hall Street Entrance
+ON: Mandel Rear Access Road
+Travel 289 feet in direction 254 degrees West
+TO: (6) Loop Road At The Usdan Student Center West End
+(12 seconds)
+
+FROM: (6) Loop Road At The Usdan Student Center West End
+ON: Loop Road
+Travel 106 feet in direction 154 degrees SE
+TO: (8) Intersection Of Loop Road And Usen Bypass
+(4 seconds)
+
+FROM: (8) Intersection Of Loop Road And Usen Bypass
+ON: Usen Bypass
+Travel 161 feet in direction 217 degrees SW
+TO: (7) Usen Main Entrance
+(18 seconds)
+
+FROM: (7) Usen Main Entrance
+ON: Usen Bypass
+Travel 130 feet in direction 157 degrees SE
+TO: (S) Top Of Usen Steps
+(14 seconds)
+
+FROM: (S) Top Of Usen Steps
+ON: Usen Bypass
+Travel 297 feet in direction 218 degrees SW
+TO: (V) Loop Road At The Top Of Squire Bridge Steps
+(13 seconds)
+
+FROM: (V) Loop Road At The Top Of Squire Bridge Steps
+ON: Loop Road
+Travel 1063 feet in direction 254 degrees West
+TO: (L22) Main Entrance
+(46 seconds)
+
+FROM: (L22) Main Entrance
+ON: 
+Travel 230 feet in direction 213 degrees SW
+TO: (L) East Intersection South St. & Old South St.
+(25 seconds)
+
+FROM: (L) East Intersection South St. & Old South St.
+ON: Old South Street
+Travel 461 feet in direction 220 degrees SW
+TO: (L40) The Rabb School
+(51 seconds)
+
+FROM: (L40) The Rabb School
+ON: Old South Street
+Travel 525 feet in direction 263 degrees West
+TO: (H) West Intersection South St. & Old South St.
+(23 seconds)
+
+FROM: (H) West Intersection South St. & Old South St.
+ON: South Street
+Travel 296 feet in direction 235 degrees SW
+TO: (F) Epstein Entrance
+(13 seconds)
+
+FROM: (F) Epstein Entrance
+ON: South Street
+Travel 483 feet in direction 241 degrees SW
+TO: (C) Intersection Turner St. & South St.
+(53 seconds)
+
+FROM: (C) Intersection Turner St. & South St.
+ON: South Street
+Travel 713 feet in direction 238 degrees SW
+TO: (L36) May, Lewis, Coffman, and Cohen Residence Halls
+(78 seconds)
+
+legs = 14, distance = 5063 feet, time = 374 seconds
+10. L1 A4 board=n time=y
+
+FROM: (L1) IBS - Sachar International Center
+ON: 
+Travel 287 feet in direction 114 degrees SE
+TO: (L2) IBS - Lemberg Academic Center
+(63 seconds)
+
+FROM: (L2) IBS - Lemberg Academic Center
+ON: Business School Path
+Travel 446 feet in direction 99 degrees East
+TO: (D) Between Fine Arts and Theater
+(98 seconds)
+
+FROM: (D) Between Fine Arts and Theater
+ON: 
+Travel 243 feet in direction 93 degrees East
+TO: (L4) Spingold Theater Center
+(54 seconds)
+
+FROM: (L4) Spingold Theater Center
+ON: 
+Travel 519 feet in direction 88 degrees East
+TO: (J) Loop Road At The Admissions Building
+(114 seconds)
+
+FROM: (J) Loop Road At The Admissions Building
+ON: Loop Road
+Travel 167 feet in direction 110 degrees East
+TO: (K) Loop Road At The Administration Building
+(41 seconds)
+
+FROM: (K) Loop Road At The Administration Building
+ON: Loop Road
+Travel 770 feet in direction 91 degrees East
+TO: (L22) Main Entrance
+(154 seconds)
+
+FROM: (L22) Main Entrance
+ON: 
+Travel 1163 feet in direction 88 degrees East
+TO: (A1u) Under Squire Bridge
+(257 seconds)
+
+FROM: (A1u) Under Squire Bridge
+ON: South Street
+Travel 430 feet in direction 76 degrees East
+TO: (X) South St. At The Base Of Health Center Steps
+(105 seconds)
+
+FROM: (X) South St. At The Base Of Health Center Steps
+ON: 
+Travel 399 feet in direction 117 degrees SE
+TO: (?) Athletic Lower Lot
+(88 seconds)
+
+FROM: (?) Athletic Lower Lot
+ON: 
+Travel 251 feet in direction 63 degrees NE
+TO: (A4) Foster Residence Quad
+(55 seconds)
+
+legs = 10, distance = 4675 feet, time = 1029 seconds
+11. L36 $ board=n time=y
+
+FROM: (L36) May, Lewis, Coffman, and Cohen Residence Halls
+ON: South Street
+Travel 713 feet in direction 58 degrees NE
+TO: (C) Intersection Turner St. & South St.
+(157 seconds)
+
+FROM: (C) Intersection Turner St. & South St.
+ON: South Street
+Travel 483 feet in direction 61 degrees NE
+TO: (F) Epstein Entrance
+(107 seconds)
+
+FROM: (F) Epstein Entrance
+ON: South Street
+Travel 296 feet in direction 55 degrees NE
+TO: (H) West Intersection South St. & Old South St.
+(72 seconds)
+
+FROM: (H) West Intersection South St. & Old South St.
+ON: 
+Travel 207 feet in direction 355 degrees North
+TO: (L28) Village Residence Hall
+(46 seconds)
+
+FROM: (L28) Village Residence Hall
+ON: 
+Travel 469 feet in direction 25 degrees NE
+TO: (K) Loop Road At The Administration Building
+(103 seconds)
+
+FROM: (K) Loop Road At The Administration Building
+ON: Central Campus Walkway
+Travel 396 feet in direction 56 degrees NE
+TO: (N) Shapiro And Administration Main Entrances
+(87 seconds)
+
+FROM: (N) Shapiro And Administration Main Entrances
+ON: 
+Travel 316 feet in direction 4 degrees North
+TO: (L16) Rosenthal Residence Hall South
+(70 seconds)
+
+FROM: (L16) Rosenthal Residence Hall South
+ON: 
+Travel 215 feet in direction 61 degrees NE
+TO: (L15) Rosenthal Residence Hall East
+(47 seconds)
+
+FROM: (L15) Rosenthal Residence Hall East
+ON: 
+Travel 122 feet in direction 336 degrees NW
+TO: (L14) Rosenthal Residence Hall North
+(27 seconds)
+
+FROM: (L14) Rosenthal Residence Hall North
+ON: 
+Travel 132 feet in direction 352 degrees North
+TO: (U3) Bethlehem Chapel
+(29 seconds)
+
+FROM: (U3) Bethlehem Chapel
+ON: 
+Travel 191 feet in direction 313 degrees NW
+TO: (P) Loop Road At The Chapels
+(42 seconds)
+
+FROM: (P) Loop Road At The Chapels
+ON: 
+Travel 961 feet in direction 69 degrees East
+TO: ($) Tower Lot
+(235 seconds)
+
+legs = 12, distance = 4501 feet, time = 1022 seconds
+12. ! = board=n time=n
+FROM: (!) Theater Lot
+ON: 
+Travel 852 feet in direction 76 degrees East
+TO: (J) Loop Road At The Admissions Building
+(208 seconds)
+
+FROM: (J) Loop Road At The Admissions Building
+ON: Loop Road
+Travel 167 feet in direction 110 degrees East
+TO: (K) Loop Road At The Administration Building
+(41 seconds)
+
+FROM: (K) Loop Road At The Administration Building
+ON: Loop Road
+Travel 770 feet in direction 91 degrees East
+TO: (L22) Main Entrance
+(154 seconds)
+
+FROM: (L22) Main Entrance
+ON: Loop Road
+Travel 1063 feet in direction 74 degrees East
+TO: (V) Loop Road At The Top Of Squire Bridge Steps
+(260 seconds)
+
+FROM: (V) Loop Road At The Top Of Squire Bridge Steps
+ON: 
+Travel 289 feet in direction 76 degrees East
+TO: (=) Science Lot
+(64 seconds)
+
+legs = 5, distance = 3141 feet, time = 727 seconds
